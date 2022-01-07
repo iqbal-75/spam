@@ -5,8 +5,8 @@ class MyCall {
 	/*
 	* Name : Spaming Call Termux
 	* File : run.php
-	* Author :xnxx.com
-	* Github :www.xnxx.com
+	* Author :iqbal-75
+	* Github :https://github.com/iqbal-75/spam
 	* Date : 07-06-2021
 	* Note : Recoder Bangsat Fvck Dont Di Recode !!!
 	* Version : 1.0
